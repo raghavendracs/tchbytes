@@ -124,7 +124,7 @@ pre {
     top: 0;
   }
 
-  > code {
+  >code {
     padding: 0;
   }
 }
@@ -195,8 +195,8 @@ ol {
   padding: 0 0 0 1.66667em;
 }
 
-li > ul,
-li > ol {
+li>ul,
+li>ol {
   margin-bottom: 0;
 }
 
@@ -237,7 +237,7 @@ label {
   color: _palette(secondary);
   font-weight: bold;
 
-  > span {
+  >span {
     font-size: 14px;
     font-weight: normal;
   }
@@ -381,7 +381,7 @@ img {
 
 /* Text meant only for screen readers */
 .screen-reader-text,
-.site-logo + .site-title {
+.site-logo+.site-title {
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
   height: 1px;

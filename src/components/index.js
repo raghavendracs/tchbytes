@@ -6,22 +6,14 @@ import Subscribe from './Subscribe';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
 
-export {
-    Footer,
-    Header,
-    Intro,
-    Social,
-    Subscribe,
-    SubscribeForm,
-    Layout
-};
+export { Footer, Header, Intro, Social, Subscribe, SubscribeForm, Layout };
 
 export default {
-    Footer,
-    Header,
-    Intro,
-    Social,
-    Subscribe,
-    SubscribeForm,
-    Layout
+  Footer,
+  Header,
+  Intro,
+  Social,
+  Subscribe,
+  SubscribeForm,
+  Layout
 };
