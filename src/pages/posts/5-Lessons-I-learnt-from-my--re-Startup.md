@@ -7,23 +7,24 @@ excerpt: >-
   failures for every success.
 template: post
 ---
+
 ![](/images/5-Lessons-I-learnt-from-my--re-Startup/0*D-29Y7bEJV1E8KjO.jpg)
 
 <figcaption>Photo by <a href="https://unsplash.com/@goian?utm_source=medium&amp;utm_medium=referral" data-href="https://unsplash.com/@goian?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor" rel="photo-creator noopener" target="_blank">Ian Schneider</a> on&nbsp;<a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" data-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor" rel="photo-source noopener" target="_blank">Unsplash</a></figcaption>
 
 There are 100’s of successful startups out there and probably 1000’s or more failures for every success.
 
-***What does this mean… ?***
+**_What does this mean… ?_**
 
 The road to Startup success if not an easy one — it is important on being **passionate on the Startup Journey** and to **learn from every iteration and (re)Startup**.
 
-I spent the last 3 years working on a side hustle around a HR Technology Idea (*which I was silently hoping to convert into a Startup when the timing was right*). While the “right time” did not really come through, I think it is important to look back and see what I could have done better.
+I spent the last 3 years working on a side hustle around a HR Technology Idea (_which I was silently hoping to convert into a Startup when the timing was right_). While the “right time” did not really come through, I think it is important to look back and see what I could have done better.
 
 Am pretty sure but this is the one of umpteen articles on this or a similar subject, but you can probably have never enough of them…
 
 > “Learn from the mistakes of others, you can never live long enough to make them all yourself.”
 
-***Honestly at least skim through the article — even if there is one new point or thought you pick up your chances of tasting startup success get enhanced. Afterall the more mistakes you can avoid the better.***
+**_Honestly at least skim through the article — even if there is one new point or thought you pick up your chances of tasting startup success get enhanced. Afterall the more mistakes you can avoid the better._**
 
 #### Putting Technology First can be risky
 
@@ -33,7 +34,7 @@ Am pretty sure but this is the one of umpteen articles on this or a similar subj
 
 If you are somebody who has been in the technology industry, every great startup is one that has a technology angle to it. I would not blame this thinking given that technology has been changing lives of a large number of entrepreneurs and an even larger number of people.
 
-But think about it — *in most cases technology simplifies something that we are already doing, automates something, evolves something we are doing to enable to be done differently / effectively / efficiently.*
+But think about it — _in most cases technology simplifies something that we are already doing, automates something, evolves something we are doing to enable to be done differently / effectively / efficiently._
 
 One of the mistakes that I did was to jump a little too quickly into the “technology solution” for the problem that we were working on.
 
@@ -51,10 +52,10 @@ Clearly there are exceptions to this to some extent – if you are developing a 
 
 Everybody starts initiatives and developing ideas for different reasons,
 
-*   Are you are a non-technical co-founder wanting to learn up on a specific technology?
-*   Are you a developing a startup idea for a specific customer ask / requirements and then hoping to take it to a broader base of targets?
-*   Are you part of a founding team in which each of you have a specific role to play?
-*   Do you have access to a specific IP that you are looking at commercialising?
+- Are you are a non-technical co-founder wanting to learn up on a specific technology?
+- Are you a developing a startup idea for a specific customer ask / requirements and then hoping to take it to a broader base of targets?
+- Are you part of a founding team in which each of you have a specific role to play?
+- Do you have access to a specific IP that you are looking at commercialising?
 
 What ever be the reasons or drivers, it would be fair to say that almost every entrepreneur hopes (albeit silently sometimes !!!) that their startup idea will succeed.
 
@@ -82,12 +83,12 @@ In many cases when you start to validate your idea, you may not know what to ask
 
 I am sure you know that you should iterate and don’t need me to say that again. I would rather list the reasons why I did not iterate well,
 
-*   Any iteration would mean that my effort thus far goes waste and I need to restart
-*   Pivoting means that I need to validate it again which is hard
-*   Will I lose people who wanted the idea to remain as is?
-*   I know better than what I am hearing from others
-*   I need to learn another set of technologies if I need to make that change. Will lose time again.
-*   Let me continue for now and I will pivot soon. But that never happened !
+- Any iteration would mean that my effort thus far goes waste and I need to restart
+- Pivoting means that I need to validate it again which is hard
+- Will I lose people who wanted the idea to remain as is?
+- I know better than what I am hearing from others
+- I need to learn another set of technologies if I need to make that change. Will lose time again.
+- Let me continue for now and I will pivot soon. But that never happened !
 
 Your reasons might be similar to mine or might be different but keep a honest view of you are listening to feedback and are open to iterate.
 
@@ -103,9 +104,9 @@ I think we did this too, and I would say was not the right strategy at all.
 
 Keep tossing your thoughts around your network as you are developing your idea and take in feedback. Talking about you idea during development helps in multiple ways,
 
-*   Gives your feedback and assists you to adapt and pivot better
-*   Writing about your motivation, your challenges and so on helps you gather a following which is a must to push your idea over the line.
-*   As a startup founder you need to always be looking for the right team – you just can’t do it all yourself. Keeping open lines of conversation helps your get the skills your might want more easily.
+- Gives your feedback and assists you to adapt and pivot better
+- Writing about your motivation, your challenges and so on helps you gather a following which is a must to push your idea over the line.
+- As a startup founder you need to always be looking for the right team – you just can’t do it all yourself. Keeping open lines of conversation helps your get the skills your might want more easily.
 
 #### Focused Feedback is always more helpful
 
@@ -119,17 +120,17 @@ It is rather hard to get people to focus on a particular area when giving feedba
 
 If you think this helps, you need to tell this to people you ask feedback from explicitly.
 
-*   Start by making a list of areas you want feedback on – depending on the “objective” you put with the team you are part of this list of areas can vary drastically.
-*   Make a list of people who can help you by inputs in each of those areas.
-*   Clear your intention when you start talking to each of these people.
-*   Collate feedback and then make all the necessary connections and linkages yourself. You know you idea the best and this is best done by you.
+- Start by making a list of areas you want feedback on – depending on the “objective” you put with the team you are part of this list of areas can vary drastically.
+- Make a list of people who can help you by inputs in each of those areas.
+- Clear your intention when you start talking to each of these people.
+- Collate feedback and then make all the necessary connections and linkages yourself. You know you idea the best and this is best done by you.
 
 #### A Quick Recap
 
 To quickly recap the four important observations from my journey in the last 3 years,
 
-*   **Putting Technology First can be risky** — focus on the problem and solution first, validate the need and then get to see what technology choices would be a good fit.
-*   **Clarity of Objectives** — different people have different objectives from their startup journey. Keep true to yours and dont deviate.
-*   **Always Iterate** — never be worried to iterate on your idea.
-*   **Early Communication** — dont want too long before you start talking about your initiative. It is painful to see that people did not want what you were developing after months and years of hard work.
-*   **Focused Feedback is always more helpful** — if you are asking feedback from people try to keep them focused. People want to give broad feedback but fall short when asked for focused feedback.
+- **Putting Technology First can be risky** — focus on the problem and solution first, validate the need and then get to see what technology choices would be a good fit.
+- **Clarity of Objectives** — different people have different objectives from their startup journey. Keep true to yours and dont deviate.
+- **Always Iterate** — never be worried to iterate on your idea.
+- **Early Communication** — dont want too long before you start talking about your initiative. It is painful to see that people did not want what you were developing after months and years of hard work.
+- **Focused Feedback is always more helpful** — if you are asking feedback from people try to keep them focused. People want to give broad feedback but fall short when asked for focused feedback.
